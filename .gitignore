@@ -4,3 +4,5 @@ tmpl/
 # Test output
 out*.txt
 .DS_Store
+# Private notes for Claude
+CLAUDE_CONTEXT.md
