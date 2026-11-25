@@ -1,0 +1,6 @@
+# ZTE web UI files (vendor code, not redistributed)
+js/
+tmpl/
+# Test output
+out*.txt
+.DS_Store
